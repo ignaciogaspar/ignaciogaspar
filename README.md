@@ -12,14 +12,12 @@
 
 ---
 
-### 🙋‍♂️ Sobre mí
+### Sobre mí
 
-Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º año, promedio 8,47). Me gusta resolver problemas, pensar en estrategia y convertir ideas en productos, combinando lo técnico con las necesidades del negocio y del usuario.
+Estudiante de **Ingeniería en Informática** en la Universidad Austral. Me gusta resolver problemas, pensar en estrategia y convertir ideas en productos, combinando lo técnico con las necesidades del negocio y del usuario.
 
-- 🔭 Hoy trabajo en **LIARD**, una plataforma que usa visión por computadora y LLMs para transformar planos eléctricos en listas de materiales y cotizaciones.
-- 🌱 Me interesan **DevOps, IaC, infraestructura inmutable, cloud** y el desarrollo de **IA agéntica**.
-- ⚡ Trabajo con flujos de desarrollo asistidos por IA para iterar más rápido.
-- 🌍 Español nativo · inglés avanzado · ⚽ fútbol y 🤽 waterpolo.
+- Me interesan **DevOps, IaC, infraestructura inmutable, cloud** y el desarrollo de **IA agéntica**.
+- Trabajo con flujos de desarrollo asistidos por IA para iterar más rápido.
 
 ---
 
