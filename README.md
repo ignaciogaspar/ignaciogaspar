@@ -12,12 +12,14 @@
 
 ---
 
-### Sobre mí
+### 🙋‍♂️ Sobre mí
 
-Estudiante de **Ingeniería en Informática** en la Universidad Austral. Me gusta resolver problemas, pensar en estrategia y convertir ideas en productos, combinando lo técnico con las necesidades del negocio y del usuario.
+Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º año, promedio 8,47). Me gusta resolver problemas, pensar en estrategia y convertir ideas en productos, combinando lo técnico con las necesidades del negocio y del usuario.
 
-- Me interesan **DevOps, IaC, infraestructura inmutable, cloud** y el desarrollo de **IA agéntica**.
-- Trabajo con flujos de desarrollo asistidos por IA para iterar más rápido.
+- 🔭 Hoy trabajo en **LIARD**, una plataforma que usa visión por computadora y LLMs para transformar planos eléctricos en listas de materiales y cotizaciones.
+- 🌱 Me interesan **DevOps, IaC, infraestructura inmutable, cloud** y el desarrollo de **IA agéntica**.
+- ⚡ Trabajo con flujos de desarrollo asistidos por IA para iterar más rápido.
+- 🌍 Español nativo · inglés avanzado · ⚽ fútbol y 🤽 waterpolo.
 
 ---
 
@@ -151,9 +153,7 @@ Estudiante de **Ingeniería en Informática** en la Universidad Austral. Me gust
 
 ### 📊 Actividad en GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ignaciogaspar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Estadísticas de GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciogaspar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
-
-<img src="https://streak-stats.demolab.com/?user=ignaciogaspar&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
+<img height="170" src="https://streak-stats.demolab.com/?user=ignaciogaspar&theme=tokyonight&hide_border=true&v=2" alt="Racha de contribuciones">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciogaspar&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&v=2" alt="Lenguajes más usados">
 
 </div>
