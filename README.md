@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Ignacio Gaspar</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=420&height=36&lines=Estudiante+de+Ingenier%C3%ADa+%F0%9F%8E%93;Desarrollador+full-stack;IA+ag%C3%A9ntica+%C2%B7+DevOps+%C2%B7+Cloud" alt="Estudiante de Ingeniería · Full-stack · IA agéntica · DevOps · Cloud" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&height=50&lines=Hola%2C+soy+Ignacio+Gaspar+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+%F0%9F%8E%93;Desarrollador+full-stack+%F0%9F%92%BB;IA+ag%C3%A9ntica+%C2%B7+DevOps+%C2%B7+Cloud" alt="Hola, soy Ignacio Gaspar 👋" />
 
 <p>
   <a href="https://www.linkedin.com/in/ignacio-gaspar-739a75366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
