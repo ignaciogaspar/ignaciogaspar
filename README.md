@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ignacio+Gaspar+%F0%9F%91%8B;Ingenier%C3%ADa+en+Inform%C3%A1tica+%40+Universidad+Austral;Full-stack+%C2%B7+IA+ag%C3%A9ntica+%C2%B7+DevOps+%26+Cloud" alt="Hola, soy Ignacio Gaspar" />
+<h1>Ignacio Gaspar</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=420&height=36&lines=Estudiante+de+Ingenier%C3%ADa+%F0%9F%8E%93;Desarrollador+full-stack;IA+ag%C3%A9ntica+%C2%B7+DevOps+%C2%B7+Cloud" alt="Estudiante de Ingeniería · Full-stack · IA agéntica · DevOps · Cloud" />
 
 <p>
   <a href="https://www.linkedin.com/in/ignacio-gaspar-739a75366"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:nacu.gaspar@yahoo.com"><img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Pilar%2C_Buenos_Aires-30363D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pilar, Buenos Aires">
+  <img src="https://img.shields.io/badge/Buenos_Aires-30363D?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Buenos Aires">
 </p>
 
 </div>
@@ -14,12 +16,11 @@
 
 ### 🙋‍♂️ Sobre mí
 
-Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º año, promedio 8,47). Me gusta resolver problemas, pensar en estrategia y convertir ideas en productos, combinando lo técnico con las necesidades del negocio y del usuario.
+Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º año, promedio 8,47). Me gusta convertir ideas en productos, uniendo lo técnico con lo que necesitan el negocio y el usuario.
 
-- 🔭 Hoy trabajo en **LIARD**, una plataforma que usa visión por computadora y LLMs para transformar planos eléctricos en listas de materiales y cotizaciones.
-- 🌱 Me interesan **DevOps, IaC, infraestructura inmutable, cloud** y el desarrollo de **IA agéntica**.
-- ⚡ Trabajo con flujos de desarrollo asistidos por IA para iterar más rápido.
-- 🌍 Español nativo · inglés avanzado · ⚽ fútbol y 🤽 waterpolo.
+- 🔭 Hoy trabajo en **LIARD**: de planos eléctricos a cotizaciones con IA.
+- 🌱 Me interesan **DevOps, IaC, cloud** e **IA agéntica**.
+- 🌍 Español nativo · inglés avanzado · ⚽ fútbol · 🤽 waterpolo
 
 ---
 
@@ -29,21 +30,21 @@ Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º a�
 
 <table>
   <tr>
-    <td align="center" width="170">
+    <td align="center" width="150">
       <a href="https://github.com/FacultadDeIngenieria"><img src="https://github.com/FacultadDeIngenieria.png?size=120" width="64" alt="Facultad de Ingeniería"></a><br>
-      <sub><b>Facultad de Ingeniería</b><br>Universidad Austral · LIARD</sub>
+      <sub><b>Ingeniería Austral</b><br>LIARD</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="150">
       <a href="https://github.com/Bovelez"><img src="https://github.com/Bovelez.png?size=120" width="64" alt="Bovelez"></a><br>
-      <sub><b>Bovelez</b><br>Stock-portfolio tracker</sub>
+      <sub><b>Bovelez</b><br>Portfolio tracker</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="150">
       <a href="https://github.com/TRVL-Project"><img src="https://github.com/TRVL-Project.png?size=120" width="64" alt="TRVL Project"></a><br>
       <sub><b>TRVL Project</b><br>Viajes con IA</sub>
     </td>
-    <td align="center" width="170">
+    <td align="center" width="150">
       <a href="https://github.com/ing-sist"><img src="https://github.com/ing-sist.png?size=120" width="64" alt="ing-sist"></a><br>
-      <sub><b>ing-sist</b><br>PrintScript + Snippet Searcher</sub>
+      <sub><b>ing-sist</b><br>Snippet Searcher</sub>
     </td>
   </tr>
 </table>
@@ -52,46 +53,56 @@ Estudiante de **Ingeniería en Informática** en la Universidad Austral (4.º a�
 
 ---
 
+<div align="center">
+
 ### 🚀 Proyectos destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ LIARD <sub><i>en desarrollo · privado</i></sub></h4>
-      Transforma planos eléctricos de AutoCAD en una lista de materiales con <b>YOLO + Claude</b>, y la cotiza en un marketplace de proveedores. Usa una cola de trabajos en Postgres y detectores que escalan en AWS.<br><br>
-      <code>NestJS</code> <code>React</code> <code>FastAPI</code> <code>YOLO</code> <code>Claude</code> <code>AWS</code>
+      <h4>⚡ LIARD</h4>
+      <img src="https://img.shields.io/badge/en_desarrollo-F59E0B?style=flat-square" alt="en desarrollo"><br><br>
+      Planos eléctricos de AutoCAD → lista de materiales con <b>YOLO + Claude</b> → cotización con proveedores.<br><br>
+      <code>NestJS</code> <code>React</code> <code>FastAPI</code> <code>AWS</code>
     </td>
     <td width="50%" valign="top">
       <h4>📈 <a href="https://github.com/Bovelez/bovelez">Bovelez</a></h4>
-      Stock-portfolio tracker con datos de SEC EDGAR y precios en vivo, como monorepo de microservicios en Docker. Diseñé el pipeline de DevOps de punta a punta.<br><br>
-      <code>NestJS</code> <code>Prisma</code> <code>FastAPI</code> <code>React</code> <code>Cypress</code> <code>Locust</code>
+      <img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square" alt="DevOps"><br><br>
+      Tracker de portafolio de acciones en microservicios. Diseñé el pipeline de DevOps.<br><br>
+      <code>NestJS</code> <code>FastAPI</code> <code>React</code> <code>Docker</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>✈️ <a href="https://github.com/TRVL-Project">TRVL</a></h4>
-      Una plataforma para planificar viajes con un asistente conversacional que genera itinerarios personalizados y los comparte con una comunidad de viajeros.<br><br>
-      <code>Next.js</code> <code>NestJS</code> <code>PostgreSQL</code> <code>Prisma</code> <code>OpenAI</code> <code>Google Maps</code>
+      <img src="https://img.shields.io/badge/IA-412991?style=flat-square" alt="IA"><br><br>
+      Planificador de viajes con un asistente conversacional que arma itinerarios.<br><br>
+      <code>Next.js</code> <code>NestJS</code> <code>OpenAI</code> <code>Prisma</code>
     </td>
     <td width="50%" valign="top">
       <h4>🧩 <a href="https://github.com/ing-sist">Snippet Searcher</a></h4>
-      PrintScript, un lenguaje de programación propio, y una aplicación de microservicios para gestionar y ejecutar snippets.<br><br>
-      <code>Kotlin</code> <code>Spring Boot</code> <code>Auth0</code> <code>New Relic</code> <code>Docker</code>
+      <img src="https://img.shields.io/badge/microservicios-6DB33F?style=flat-square" alt="microservicios"><br><br>
+      PrintScript, un lenguaje propio, y una app para gestionar y ejecutar snippets.<br><br>
+      <code>Kotlin</code> <code>Spring Boot</code> <code>Auth0</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🚗 POWERMIND: Ford Innovation Challenge III <sub><i>privado</i></sub></h4>
-      Alerta temprana de fallas de motor con telemetría de vehículos conectados: avisa en 7 de cada 10 casos, con una mediana de 5,5 semanas de anticipación.<br><br>
-      <code>Python</code> <code>Jupyter</code> <code>Machine learning</code>
+      <h4>🚗 POWERMIND</h4>
+      <img src="https://img.shields.io/badge/Ford_Challenge_III-003478?style=flat-square" alt="Ford Innovation Challenge III"><br><br>
+      Anticipa fallas de motor con telemetría: avisa ~5 semanas antes en 7 de cada 10 casos.<br><br>
+      <code>Python</code> <code>ML</code> <code>Jupyter</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ignaciogaspar/Advance-Coding-Agent">Advance Coding Agent</a></h4>
-      Un coding agent multiagente con RAG, memoria, políticas y observabilidad, sin frameworks de orquestación.<br><br>
-      <code>Python</code> <code>OpenAI API</code> <code>Multiagente</code> <code>RAG</code>
+      <h4>🤖 <a href="https://github.com/ignaciogaspar/Advance-Coding-Agent">Coding Agent</a></h4>
+      <img src="https://img.shields.io/badge/multiagente-D97757?style=flat-square" alt="multiagente"><br><br>
+      Agente de programación multiagente con RAG y memoria, sin frameworks.<br><br>
+      <code>Python</code> <code>OpenAI</code> <code>RAG</code>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
